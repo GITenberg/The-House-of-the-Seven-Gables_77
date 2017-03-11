@@ -1,5 +1,8 @@
 _repo: The-House-of-the-Seven-Gables_77
-_version: 0.1.1
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hawthorne, Nathaniel
@@ -19,6 +22,8 @@ description: "The House of the Seven Gables is a Gothic novel written beginning 
   \ and later had a strong influence on the work of H. P. Lovecraft. The House of\
   \ the Seven Gables has been adapted several times to film and television.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/77#The-House-of-the-Seven-Gables
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '1993-08-01'
 gutenberg_type: Text
